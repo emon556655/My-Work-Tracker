@@ -1,0 +1,7 @@
+APK BUILD:
+./gradlew assembleDebug
+
+OUTPUT:
+app/build/outputs/apk/debug/app-debug.apk
+
+If your phone IDE has its own Gradle/SDK, open this folder as an Android project and use its Build/Assemble APK option.
